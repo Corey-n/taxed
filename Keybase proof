@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am corey-n on github.
+  * I am coreyn (https://keybase.io/coreyn) on keybase.
+  * I have a public key ASBXa6fOBcCsNTbHiVLG1nFmvXqrBK9q2CwEnJnQZUU6nQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120576ba7ce05c0ac3536c78952c6d67166bd7aab04af6ad82c049c99d065453a9d0a",
+      "host": "keybase.io",
+      "kid": "0120576ba7ce05c0ac3536c78952c6d67166bd7aab04af6ad82c049c99d065453a9d0a",
+      "uid": "1adeb2e4b85bfdd1be5949f5a307a419",
+      "username": "coreyn"
+    },
+    "merkle_root": {
+      "ctime": 1568072928,
+      "hash": "824c13948389a3d5755d0b96248d4a837c0d0662831888ce747b9eaeb513fa69256ecb35026dd5df25e0fe940371dc0c734830b9f8889b5bab48a6d558f362b4",
+      "hash_meta": "164e1b77f77f7ab1d937c5182b076fe4d12b286e13221224763691cf4144aec6",
+      "seqno": 6274076
+    },
+    "service": {
+      "entropy": "CmhOr+3hpqGeesLkhE3XEhnH",
+      "name": "github",
+      "username": "corey-n"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568072937,
+  "expire_in": 504576000,
+  "prev": "56ec3df03696132f44311b1551249491406b69a24479cb58cb41126cb072b772",
+  "seqno": 9,
+  "tag": "signature"
+}
+```
+
+with the key [ASBXa6fOBcCsNTbHiVLG1nFmvXqrBK9q2CwEnJnQZUU6nQo](https://keybase.io/coreyn), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgV2unzgXArDU2x4lSxtZxZr16qwSvatgsBJyZ0GVFOp0Kp3BheWxvYWTESpcCCcQgVuw98DaWEy9EMRsVUSSUkUBraaJEectYy0ESbLByt3LEIETQ1NI7U//0rTl7nGx6rPrhVBIiI9zOom264YomHXYWAgHCo3NpZ8RAraPSGyWRkZRQkmtXXBFqpKQqckGjXbrBWhNqSG8oN7tBJDzcasDFdcD26TSm26UUcW5L6JY8Rrj2e9Xil7DiBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIN/N/K1INmfXwdsG4PHdQkTS43yPNcVkcXPEImkToDDBo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/coreyn
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id coreyn
+```
